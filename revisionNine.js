@@ -86,7 +86,6 @@ console.log(cities.slice(-1,-5))
 // splice()
 //                 0         1          2         3
 let countries = ["india","pakistan","srilanka","japan"]
-
 // countries.pop()
 // countries.shift()
 // console.log(countries)
@@ -94,3 +93,5 @@ let countries = ["india","pakistan","srilanka","japan"]
 countries.splice(1,2,"USA","China","Mexico")
 console.log(countries)
 
+// playwright --> 
+// monday
