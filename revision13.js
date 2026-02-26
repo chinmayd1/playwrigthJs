@@ -69,15 +69,33 @@
 // }
 
 
-class Student {
+// class Student {
+//     constructor(fn,ln){
+//         this.firstname = fn 
+//         this.lastName = ln
+//     }
+//     displayName(){
+//        console.log(this.firstname + this.lastName)
+//     }
 
-    constructor(fn,ln){
-        this.firstname = fn 
-        this.lastName = ln
-    }
-    displayName(){
-        this.firstname = fn 
-        this.lastName = ln
-    }
+// }
 
-}
+// class Teacher extends Student {
+
+//     constructor(fn,ln,salary){
+//         super(fn,ln)
+//         this.salary = salary
+//     }
+//     displaySalary(){
+//         console.log(this.salary)
+//     }
+
+// }
+// let amolT  = new Teacher("amolT","raoT",12000)
+// console.log(amolT.firstName)
+// console.log(amolT.lastName) 
+// console.log(amolT.salary)
+
+// abstraction 
+// polymorphism 
+// css Selector , Xpath

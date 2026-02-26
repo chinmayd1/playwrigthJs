@@ -69,15 +69,3 @@ let q3 = numbers.every(function(el){
 })
 console.log(q3)
 
-
-
-
-// some()
-
-// find()
-
-// Object.keys()
-
-// Object.values()
-
-// key- value()

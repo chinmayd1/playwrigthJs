@@ -43,6 +43,21 @@ let q3 = Obj7.hasOwnProperty('fn')
 let q4 = Obj7.hasOwnProperty('Fn')
 
 // NUumbers 
-Number("123")
-parseFloat("10.99")
-parseInt("10.99")
+Number("123") // 123
+parseFloat("10.99") // number --> 10.99
+parseInt("10.99") // 10
+isNaN(10) // false
+isFinite(100) // true
+
+// Math
+
+Math.ceil(10.5)//
+Math.floor(10.5)//
+Math.floor(-10.5)//
+Math.ceil(-10.5)//
+Math.round(10.5)//
+Math.round(10.4)//
+Math.round(-10.5)//
+Math.round(-10.6)//
+Math.abs(-10.6)//
+Math.pow(2,3)// 8
